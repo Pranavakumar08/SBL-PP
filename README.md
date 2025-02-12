@@ -1,3 +1,3 @@
 # SBL-PP
-# <b>Pranavakumar Murali</b>
+# Pranavakumar Murali
 ## SE-3 S1 04
